@@ -1,0 +1,5 @@
+name: LightingStrike
+version: 1.0
+main: dev.unkw301.ExampleLoader
+author: unkw301
+description: 'Пример кода на молнию, появляющаюся при клике на локацию, игроком, определённым предметов'

@@ -1,0 +1,9 @@
+useList: false
+delayBetweenSpawns: 60
+material:
+  - 'DIAMOND_AXE'
+  - 'DIAMOND_SWORD'
+  - 'DIAMOND_HOE'
+  - 'IRON_AXE'
+  - 'IRON_SWORD'
+  - 'IRON_HOE'

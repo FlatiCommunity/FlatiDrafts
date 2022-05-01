@@ -1,0 +1,10 @@
+name: MapSystem
+version: 1.0
+main: dev.jcsoftware.MapLoader
+author: JordanOsterberg
+description: 'Пример кода для возвращения карты в исходный формат, плагин предназначен для мини-режимов'
+commands:
+  reset:
+    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  warp:
+    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'

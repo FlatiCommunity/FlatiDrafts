@@ -1,0 +1,10 @@
+name: FasterPluginCreation
+version: 1.0
+main: dev.jcsoftware.ExampleLoader
+author: JordanOsterberg
+description: 'Пример кода реализации рефлекции в Bukkit API через библиотеку'
+commands:
+  broadcast:
+    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  heal:
+    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'

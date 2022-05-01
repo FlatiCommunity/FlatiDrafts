@@ -1,0 +1,5 @@
+name: DreamRandomItem
+version: 1.0
+main: dev.jcsoftware.ExampleLoader
+author: JordanOsterberg
+description: 'Пример кода для рандомных предметов, как у ютубера Dream'

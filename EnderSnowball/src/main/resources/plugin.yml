@@ -1,0 +1,5 @@
+name: EnderSnowball
+version: 1.0
+main: space.owlsskam.ExampleLoader
+author: NullPointer
+description: 'Пример кода на телепортацию в место куда кидается определённый предмет'

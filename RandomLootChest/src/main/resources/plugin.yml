@@ -1,0 +1,5 @@
+name: RandomLootChest
+version: 1.0
+main: dev.jcsoftware.PluginLoader
+author: JordanOsterberg
+description: 'Пример кода на рандомный лут с сундуков, с предметами настраиваемыми в конфигурации разработки.'
