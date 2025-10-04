@@ -1,0 +1,25 @@
+# Название разработки.
+name: KleksyGriefSettings
+# Версия продукта.
+version: 1.0
+# Главный класс-файл «плагина».
+main: kleksystudio.KleksyGriefSettings.Main
+# Официальный разработчик.
+author: KleksyStudio
+# Ко-авторы (помощники) по созданию чуда.
+authors: [testakkount, SirMalicous, testaccount]
+# Описание разработки.
+description: '...'
+# Ссылка на автора.
+website: https://github.com/FlatiCommunity/FlatiDrafts
+# Версия Bukkit API поддерживаемая для Material.
+## Для поддержки Material API изначально задумывалось, срёт warning в логах загрузки, имхо чекается сразу валидатор plugin.yml
+api-version: '1.16'
+# Этап загрузки. Учтите, всегда POSTWORLD, если до миров (STARTUP), то там пол-баккита не инициализировалось, шняга в общем. Смысла не имеет... и так onLoad кидается пораньше
+load: POSTWORLD
+# Почти бесполезно пхаххахах
+prefix: Keksik
+# Для новых версий имба, дабы не перегружать сервис однотипными либами, но на 1.16.4/5 такого чуда нету
+libraries:
+  - com.google.guava:guava:30.1.1-jre
+  - com.google.code.gson:gson:2.8.6
